@@ -6,30 +6,13 @@
 
 <p><a href=""><img src="https://netcore.in/wp-content/themes/netcore/img/product/chatbot-header.jpg"alt="Chatbot, image de Netcore.in"></a><br>
 
-### AUTEURS:
-===============
-<pBenoit Verret - 111 099 148</p>
-<p>Elida Melo - 111 153 228</p>
-<p>Isabelle Eysseric - 111 189 609</p>
-<br>
-
-# Système de contrôle de lumière
-<br>
-
-## Etape 1 : Spécification en FSP : Synchronisation de feux de circulation <br>
-<p><a href="https://commons.wikimedia.org/wiki/File:Carrefour_16_mouvements.jpg#/media/File:Carrefour_16_mouvements.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Carrefour_16_mouvements.jpg" alt="Carrefour_16_mouvements.jpg"></a><br>
-  <br>
-   <br>
 ### AUTEURS:<br>
 ===============
 <p>Alex Lebrun</p>
 <p>Walter BONETTI</p>
 <p>Isabelle Eysseric</p>
 <br>
- <br
-Benoit Verret - 111 099 148
-Elida Melo - 111 153 228
-Isabelle Eysseric - 111 189 609
+<br>
 
 ### ETAT DU PROJET:
 ===============
