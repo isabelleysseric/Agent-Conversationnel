@@ -5,12 +5,6 @@
 ## Questions - Reponses
 
 <p><a href=""><img src="https://netcore.in/wp-content/themes/netcore/img/product/chatbot-header.jpg"alt="Chatbot, image de Netcore.in"></a><br>
-
-### AUTEURS:<br>
-===============
-<p>Alex Lebrun</p>
-<p>Walter BONETTI</p>
-<p>Isabelle Eysseric</p>
 <br>
 <br>
 
