@@ -1,6 +1,4 @@
 # Système à base de Connaissances
-<br/>
-
 ## Traitement Atomatique du Langage Naturel
 <br/>
 <br/>
