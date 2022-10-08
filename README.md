@@ -4,6 +4,17 @@
 <br/>
 
 
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Agent-Conversationnel">Agent-Conversationnel</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Agent-Conversationnel/wiki">Agent-Conversationnel</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
+<br/>
+<br/>
+
+
 ## Questions - Reponses
 
 <p><a href=""><img src="https://netcore.in/wp-content/themes/netcore/img/product/chatbot-header.jpg"alt="Chatbot, image de Netcore.in"></a><br>
